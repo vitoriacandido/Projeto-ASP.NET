@@ -1,0 +1,20 @@
+@page "{id:int}"
+@model TaskManagerApp.Pages.Tasks.DeleteModel
+@{
+    ViewData["Title"] = "Excluir Tarefa";
+}
+
+<h1>Excluir Tarefa</h1>
+
+<h3>Tem certeza que deseja excluir esta tarefa?</h3>
+
+<div>
+    <h4>@Model.Task.Title</h4>
+    <p>@Model.Task.Description</p>
+    <p><strong>Concluída:</strong> @(Model.Task.IsCompleted ? "Sim" : "Não")</p>
+</div>
+
+<form method="post">
+    <button type="submit" class="btn btn-danger">Excluir</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+</form>
