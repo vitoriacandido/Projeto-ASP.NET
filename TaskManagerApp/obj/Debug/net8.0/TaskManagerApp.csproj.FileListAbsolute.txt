@@ -1,0 +1,7 @@
+C:\Users\Alunos\Documents\000\Projeto-ASP.NET\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\000\Projeto-ASP.NET\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\000\Projeto-ASP.NET\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\000\Projeto-ASP.NET\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfo.cs
+C:\Users\Alunos\Documents\000\Projeto-ASP.NET\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\000\Projeto-ASP.NET\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alunos\Documents\000\Projeto-ASP.NET\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.sourcelink.json
